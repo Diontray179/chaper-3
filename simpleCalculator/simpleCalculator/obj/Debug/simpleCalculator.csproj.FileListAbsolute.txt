@@ -1,0 +1,10 @@
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.txt_entry1.resources
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.Properties.Resources.resources
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\dw158600\Desktop\C-sharp projects\chaper 3\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
